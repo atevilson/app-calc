@@ -1,4 +1,3 @@
-let soma = function(a,b) {
+export default function some(a,b) {
     return a + b
-};
-module.exports = soma;
+}
