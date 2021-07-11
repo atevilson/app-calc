@@ -1,4 +1,5 @@
-let mult = function(a,b) {
+// módulo com função multiplicação
+
+export default function multiplica(a,b) {
     return a * b
-};
-module.exports = mult;
+}
